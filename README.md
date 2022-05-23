@@ -27,7 +27,7 @@ A private chef platform - Sprint Planning Assignment
 - Get customer information (address,phone number)
 - Submit a feedback.
 
-# user flow chart
+# User flow chart
 
 ![My First Board](https://user-images.githubusercontent.com/26024288/169893281-121385e0-2ede-4f6b-9fcb-79e6ec4ccf89.jpg)
 
