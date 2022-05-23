@@ -4,7 +4,7 @@ A private chef platform - Sprint Planning Assignment
 
 ## User Story
 
-As a user I want to be able to:
+#### As a user I want to be able to:
 
 - See a menu to choose the meals.
 - See all chefs so I can choose who I want.
@@ -13,7 +13,8 @@ As a user I want to be able to:
 - Get a confirmation email to check booking information (Cooking equipment and ingredients required, type of food, link to guest invitation, Chef arrival and departure time, Chef preferences).
 - Get special offers and discounts.
 
-As a chef I want to be able to:
+
+#### As a chef I want to be able to:
 
 - Create an account with my:
   - Name
@@ -34,8 +35,10 @@ As a chef I want to be able to:
 
 Scope: allows users to hire a personal chef to come and cook for them at home instantly through its online platform.
 
+###### For user
 ![image](https://user-images.githubusercontent.com/26024288/169893571-278c3bbd-11dc-4105-b8ea-7d2212e870b0.png)
 
+###### For chef
 ![image](https://user-images.githubusercontent.com/26024288/169894094-8fd1c9ee-4644-45f2-8ecb-ac5c3c635c3c.png)
 
 
